@@ -1,7 +1,7 @@
 import Layout from '@/components/Layout'
 import Head from 'next/head'
 import Image from 'next/image'
-import profileImg from '../../mypage/public/shiba.png'
+import profileImg from '../../mypage/public/shibaprofile.png'
 import AnimatedText from '@/components/AnimatedText'
 
 
